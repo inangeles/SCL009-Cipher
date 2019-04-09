@@ -6,21 +6,23 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>Bienvenido a CODIFY</h1>
-    <p>¡Con CODIFY podras encriptar o descifrar mensajes secretos!</p><br>
-
-    <h3>Aqui va tu desplazamiento:</h3>
-    <input id="offset" type="text" size="10" placeholder="Desplazamiento"/><br><br>
-
-    <h3>Ingresa tu mensaje:</h3>
-    <input id="user_text" type="text" placeholder="Tu texto aqui"/><br>
-    <button id="enc">Encriptar</button>
-    <button id="dec">Descifrar</button><br><br>
-
-    <h3>¡Ta-da!</h3>
-    <input id="result_text" type="text" placeholder="Resultado"/><br><br><br>
-
-    <button id= "clear">Limpiar Campos</button>
+    <div class="bckgrnd">
+      <h1>¡Bienvenid@ a Codify!</h1>
+      <p>Con <strong>CODIFY</strong> podras encriptar y/o descifrar mensajes secretos.</p><br>
+  
+      <h3>Aqui va tu desplazamiento:</h3>
+      <input id="offset" type="text" size="15" placeholder="Desplazamiento"/><br><br>
+  
+      <h3>Ingresa tu mensaje:</h3>
+      <textarea id="user_text" class="usrtxt" type="text" cols="25" rows="3" placeholder="Tu texto aqui"></textarea><br><br>
+      <button id="enc">Encriptar</button>
+      <button id="dec">Descifrar</button><br><br>
+  
+      <h3>¡TA-DA!</h3>
+      <textarea id="result_text" class="tada" type="text" cols="25" rows="3" placeholder="Resultado"></textarea><br><br><br>
+  
+      <button id= "clear">Limpiar Campos</button>
+    </div>
     
     <script src="cipher.js"></script>
     <script src="index.js"></script>

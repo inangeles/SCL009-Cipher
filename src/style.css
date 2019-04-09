@@ -1,14 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 body {
-    text-align: center;
+   text-align: center;
+   background-image: url("https://www.ncfamily.org/wp-content/uploads/2015/06/key.jpg");
+   margin-right: 10%;
+   margin-top: 5%;
 }
 
 input{
    text-align:center;
+   font-family: 'Raleway', sans-serif;
 }
 
 p {
-  font-size: 20px;
+  font-size: 21px;
+  font-family: 'Raleway', sans-serif;
 }
 
+h1{
+   font-family: 'Cookie', cursive;
+   font-size: 60px;
+   color: #C70039;
+   text-shadow: 2px 2px 4px #929090;
+}
 
-/* Acá va tu código */
+h3 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 19px;
+   color: rgb(126, 21, 63);
+   margin-bottom: 6px;
+}
+
+.bckgrnd {
+   background: rgba(254, 227, 238, 0.6);
+   margin-left: 250px;
+   margin-right: 250px;
+   padding-top: 5px;
+   padding-bottom: 30px;
+   border-radius: 20px;
+}
+
+.usrtxt {
+   font-family: 'Raleway', sans-serif;
+   text-align: center;
+}
+
+.tada { 
+   font-family: 'Raleway', sans-serif;
+   text-align: center;
+}
+
+#user_text {
+    font-size: 20px;
+}
+
+#offset {
+    font-size: 20px;
+}
+
+#result_text {
+    font-size: 20px;
+}
