@@ -38,7 +38,7 @@ Adicionalmente se utilizaron plataformas digitales como
 ###¿Cómo Usar?
 
 **Para Encriptar:**
-- Ir al siguiente enlace: [Codify](https://trello.com/b/KgM9HB6J/cipher-project)
+- Ir al siguiente enlace: [Codify](https://inangeles.github.io/SCL009-Cipher/src/index.html)
 - Ingresar un número que se aplicará como desplazamiento
 - Ingresar el texto que se desee encriptar
 - Copiar y pegar el _resultado_ a quien se le quiera enviar el mensaje encriptado
@@ -47,7 +47,7 @@ Adicionalmente se utilizaron plataformas digitales como
 _**Tip:** ¡Recuerda mencionar el numero de desplazamiento a tu pareja o amig@ para que pueda desencriptar tu mensaje secreto!_
 
 **Para Desencriptar:**
-- Ir al siguiente enlace: [Codify](https://trello.com/b/KgM9HB6J/cipher-project)
+- Ir al siguiente enlace: [Codify](https://inangeles.github.io/SCL009-Cipher/src/index.html)
 - Ingresar un número que se aplicará como desplazamiento
 - Ingresar el texto que se desee desencriptar
 - ¡Listo!
